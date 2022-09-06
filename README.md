@@ -17,6 +17,7 @@ doing another modification
 ## How to continue
 
 Sample website with plenty of files for demos
+Please fork this repository and then issue the Pull Requests for review.
 
 ### Copyright
 
