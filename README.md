@@ -8,7 +8,11 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
+As stated above, the main purpose is to provide a simple example
+
 ## Deployment
+
+doing another modification
 
 ## How to continue
 
